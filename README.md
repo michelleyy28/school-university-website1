@@ -11,3 +11,6 @@ It will be user-friendly, responsive on all devices, and easy to update even by 
 
 This is important in today's context, especially as technology continues to shape eductaion.
 After the pandemic, online communication has become more crucial than ever schools must adapt by using digital tools that improve accessibilty, transparency, and operational efficiency
+
+In conclusion, building a school or university website is not just a trent it's a necessity.
+This project will help schools communicate better, manage information more effectively, and provide a reliable online presence that benefits both the institution and it's community.
